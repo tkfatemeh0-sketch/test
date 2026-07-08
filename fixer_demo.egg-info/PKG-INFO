@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: fixer_demo
+Version: 0.1
+Summary: fixer service demo package
+Home-page: #
+Author-email: tkfatemeh0@gmail.com
+License: MIT
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary
